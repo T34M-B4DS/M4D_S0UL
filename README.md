@@ -2,26 +2,28 @@
 
 Hello Assalamu Alaikum, Dear All Friends Tool Maked By Team Bads Security Researchers 
 
-tool run command 👇
+#tool run command 👇
 
-# apt update && apt upgate
+$ apt update && apt upgate
 
-# pkg install git
+$ pkg install git
 
-# pkg install python
+$ pkg install python
 
-# pkg install python2
+$ pkg install python2
 
-# pip install requests
+$ pip install requests
 
-# pip2 install requests
+$ pip2 install requests
 
-# pip install machenize
+$ pip install machenize
 
-# pip2 install mechanize
+$ pip2 install mechanize
 
-# git clone https://github.com/T34M-B4DS/M4D_S0UL
+$ git clone https://github.com/T34M-B4DS/M4D_S0UL
 
-# cd M4D_S0UL
+$ cd M4D_S0UL
 
-# python2 BADS.py
+$ python2 BADS.py
+
+#TEAM BADS
