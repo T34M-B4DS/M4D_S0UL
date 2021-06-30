@@ -1,8 +1,8 @@
 # M4D_S0UL
 
-Hello Assalamu Alaikum, Dear All Friends Tool Maked By Team Bads Security Researchers 
+Hello Assalamu Alaikum, Dear All Friends Tool Maked By Team Bads 
 
-#tool run command 👇
+# tool run command 
 
 $ apt update && apt upgate
 
@@ -26,4 +26,4 @@ $ cd M4D_S0UL
 
 $ python2 BADS.py
 
-#TEAM BADS
+# TEAM BADS
