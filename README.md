@@ -1,6 +1,6 @@
 # M4D_S0UL
 
-Hello Assalamu Alaikum, Dear All Friends Tool Maked By Team Bads 
+Hello Assalamu Alaikum, Dear All Friends Tool Maked By m4d s0ul
 
 # tool run command 
 
