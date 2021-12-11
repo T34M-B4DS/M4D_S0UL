@@ -1,7 +1,7 @@
-<font size="10" ><b>M4D S0UL</b></font>
+<h1>M4D S0UL/h1>
 <p>Hello Assalamu Alaikum, Dear All Friends Tool Maked By m4d s0ul</p>
 
-<h1>-TOOL RUN COMMAND-</h1> 
+<h3>-TOOL RUN COMMAND-</h3> 
 
 <P>$ apt update && apt upgate
 <br>
