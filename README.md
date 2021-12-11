@@ -1,29 +1,28 @@
-<center><font size="3" color="red"><b>M4D S0UL</b></font></center>
+<font size="5" ><b>M4D S0UL</b></font>
+<p>Hello Assalamu Alaikum, Dear All Friends Tool Maked By m4d s0ul</p>
 
-Hello Assalamu Alaikum, Dear All Friends Tool Maked By m4d s0ul
+<h1>-TOOL RUN COMMAND-</h1> 
 
-# tool run command 
-
-$ apt update && apt upgate
-
+<P>$ apt update && apt upgate
+<br>
 $ pkg install git
-
+<br>
 $ pkg install python
-
+<br>
 $ pkg install python2
-
+<br>
 $ pip install requests
-
+<br>
 $ pip2 install requests
-
+<br>
 $ pip install machenize
-
+<br>
 $ pip2 install mechanize
-
+<br>
 $ git clone https://github.com/T34M-B4DS/M4D_S0UL
-
+<br>
 $ cd M4D_S0UL
-
-$ python2 BADS.py
-
-# TEAM BADS
+<br>
+$ python2 BADS.py</P>
+<br>
+<font size="3"><b>BANGLADESH ANONYMOUS DEFANCE SQUAD</b></font>
