@@ -25,4 +25,4 @@ $ cd M4D_S0UL
 <br>
 $ python2 BADS.py</P>
 <br>
-<font size="3"><b>BANGLADESH ANONYMOUS DEFANCE SQUAD</b></font>
+BANGLADESH ANONYMOUS DEFANCE SQUAD
